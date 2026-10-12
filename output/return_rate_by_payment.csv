@@ -1,0 +1,4 @@
+payment_method,order_count,returned_orders,return_rate
+CARD,68,10,0.14705882352941177
+COD,54,24,0.4444444444444444
+UPI,53,10,0.18867924528301888
